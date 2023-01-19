@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Munyoro Mufaro David
+Nyasha Nyabinde
 
 Second part of Airbnb: Joann Vuong
 ## License
