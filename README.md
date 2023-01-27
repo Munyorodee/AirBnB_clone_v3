@@ -130,7 +130,7 @@ TestBaseModel class:
 ## Examples of use
 ```
 vagrantAirBnB_clone$./console.py
-(hbnb) help
+(hbnb) help help
 
 Documented commands (type help <topic>):
 ========================================
